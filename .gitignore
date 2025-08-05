@@ -1,0 +1,7 @@
+# environment variables
+*.env
+
+# output files
+*.log
+*.json
+*.db
