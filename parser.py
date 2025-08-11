@@ -3,7 +3,7 @@ import sqlite3
 
 def create_database_and_tables(cursor):
     """
-    Creates the necessary tables using the provided database cursor.
+    Creates the necessary tables using the provided database cursor!
 
     Args:
         cursor: A SQLite database cursor object.
